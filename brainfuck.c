@@ -23,7 +23,7 @@ void displayHelp() {
 }
 
 void displaySeeHelp() {
-  printf("Try 'bf --help' for more information.");
+  printf("Try 'bf --help' for more information.\n");
 }
 
 
